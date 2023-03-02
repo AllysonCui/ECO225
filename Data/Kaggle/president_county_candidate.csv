@@ -5805,8 +5805,8 @@ Maine,Garfield Plt.,Jo Jorgensen,LIB,3,FALSE
 Maine,Garfield Plt.,Rocky De La Fuente,ALI,0,FALSE
 Maine,Garfield Plt.,Howie Hawkins,GRN,0,FALSE
 Maine,Garfield Plt., Write-ins,WRI,0,FALSE
-Maine,Glenwood Plt.,Joe Biden,DEM,0,TRUE
-Maine,Glenwood Plt.,Donald Trump,REP,1,FALSE
+Maine,Glenwood Plt.,Donald Trump,REP,1,TRUE
+Maine,Glenwood Plt.,Joe Biden,DEM,0,FALSE
 Maine,Glenwood Plt.,Rocky De La Fuente,ALI,0,FALSE
 Maine,Glenwood Plt.,Howie Hawkins,GRN,0,FALSE
 Maine,Glenwood Plt.,Jo Jorgensen,LIB,0,FALSE
